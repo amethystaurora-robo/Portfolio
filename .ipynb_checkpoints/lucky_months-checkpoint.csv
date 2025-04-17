@@ -1,0 +1,25 @@
+birthMonth,Type,Value
+1.0,Expected Counts,205.14229946373177
+2.0,Expected Counts,191.06328053638993
+3.0,Expected Counts,213.77270260266855
+4.0,Expected Counts,209.20925636697498
+5.0,Expected Counts,221.25692465412
+6.0,Expected Counts,218.97591080674815
+7.0,Expected Counts,230.47034812344845
+8.0,Expected Counts,227.53822398009174
+9.0,Expected Counts,223.11521329843413
+10.0,Expected Counts,217.6396452319818
+11.0,Expected Counts,204.7692231939191
+12.0,Expected Counts,201.04697174149135
+1.0,Observed Counts,550.0
+2.0,Observed Counts,164.0
+3.0,Observed Counts,199.0
+4.0,Observed Counts,176.0
+5.0,Observed Counts,179.0
+6.0,Observed Counts,161.0
+7.0,Observed Counts,195.0
+8.0,Observed Counts,199.0
+9.0,Observed Counts,200.0
+10.0,Observed Counts,209.0
+11.0,Observed Counts,153.0
+12.0,Observed Counts,179.0
