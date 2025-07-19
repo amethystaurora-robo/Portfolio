@@ -1,4 +1,4 @@
-## 📈 **Portfolio Visualisations**
+## 📈 **Portfolio Analyses**
 
 ### 💱 Billionare Analysis
 <p align="left">
